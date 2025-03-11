@@ -25,6 +25,9 @@ Both simulations are implemented in **Processing (Java-based language)** and uti
 
 ---
 
+## Demo
+![gameOfLife Demo](https://raw.githubusercontent.com/Matthew8747/GoL-FFsim/tree/main/assets/goldemo.gif)
+
 ## Forest Fire Simulation
 
 ### Implementation Details
@@ -50,6 +53,9 @@ Both simulations are implemented in **Processing (Java-based language)** and uti
 
 ### Connection to Game of Life
 The **Forest Fire Simulation extends the principles of the Game of Life** by replacing the binary live/dead cell states with multiple states representing trees, fire, and regrowth. The update mechanism follows similar neighborhood-based rules but incorporates probabilities and environmental factors to model realistic fire behavior.
+
+## Demo
+![ForestFireSim Demo](https://raw.githubusercontent.com/Matthew8747/GoL-FFsim/tree/main/assets/ffsdemo.gif)
 
 ---
 
